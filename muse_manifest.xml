@@ -1,0 +1,89 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.imperiumeq.org" resolutions="1x" timestamp="1587651417186">
+  <folder name="css">
+    <file name="site_global.css" crc="347579958"/>
+    <file name="server-information.css" crc="465233621" ref="server-information"/>
+    <file name="iefonts_server-information.css" crc="3444139" ref="server-information"/>
+    <file name="index.css" crc="3940368760" ref="index"/>
+    <file name="nomq_index.css" crc="4071931188" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="server-files.css" crc="3790967407" ref="server-files"/>
+    <file name="iefonts_server-files.css" crc="458079564" ref="server-files"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:server-information:server-files"/>
+    <file name="museutils.js" crc="3939489907" ref="index:server-information:server-files"/>
+    <file name="whatinput.js" crc="86476730" ref="index:server-information:server-files"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:server-information:server-files"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:server-information:server-files"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:server-information:server-files"/>
+    <file name="webpro.js" crc="3856315280" ref="server-information"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="server-information"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="server-information"/>
+    <file name="touchswipe.js" crc="3888935200" ref="server-information"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:server-information:server-files"/>
+    <file name="eq_icon.png" crc="4064983711" seo="true" ref="index:server-information:server-files">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="server-files" alt=""/>
+      <caption webpage="server-information" alt=""/>
+    </file>
+    <file name="u133-4.png" crc="16098706" ref="index"/>
+    <file name="u176-4.png" crc="3872132160" ref="index"/>
+    <file name="kunark_banner.png" crc="234797221" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pngwave.png" crc="3805080895" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u133-42.png" crc="331771581" ref="index"/>
+    <file name="u176-42.png" crc="1239585" ref="index"/>
+    <file name="u1243-4.png" crc="16098706" ref="server-information"/>
+    <file name="u1246-4.png" crc="3872132160" ref="server-information"/>
+    <file name="velious_banner.png" crc="4038159662" seo="true" ref="server-information">
+      <caption webpage="server-information" alt=""/>
+    </file>
+    <file name="everquest_classic_cover.jpg" crc="4267433632" seo="true" ref="server-information">
+      <caption webpage="server-information" alt=""/>
+    </file>
+    <file name="everquest_kunark_cover.jpg" crc="328385343" seo="true" ref="server-information">
+      <caption webpage="server-information" alt=""/>
+    </file>
+    <file name="everquest_velious_cover.jpg" crc="4284403352" seo="true" ref="server-information">
+      <caption webpage="server-information" alt=""/>
+    </file>
+    <file name="everquest_luclin_cover.jpg" crc="196302021" seo="true" ref="server-information">
+      <caption webpage="server-information" alt=""/>
+    </file>
+    <file name="everquest_pop_cover.jpg" crc="456225010" seo="true" ref="server-information">
+      <caption webpage="server-information" alt=""/>
+    </file>
+    <file name="everquest_ldon_cover.jpg" crc="3803694454" seo="true" ref="server-information">
+      <caption webpage="server-information" alt=""/>
+    </file>
+    <file name="everquest_god_cover.jpg" crc="15669689" seo="true" ref="server-information">
+      <caption webpage="server-information" alt=""/>
+    </file>
+    <file name="everquest_oow_cover.jpg" crc="3910397175" seo="true" ref="server-information">
+      <caption webpage="server-information" alt=""/>
+    </file>
+    <file name="u1296-4.png" crc="184828253" ref="server-information"/>
+    <file name="u1288-4.png" crc="523678490" ref="server-information"/>
+    <file name="loading.gif" crc="3815509949" ref="server-information"/>
+    <file name="u1823-4.png" crc="16098706" ref="server-files"/>
+    <file name="u1826-4.png" crc="3872132160" ref="server-files"/>
+    <file name="god_banner.png" crc="2630356" seo="true" ref="server-files">
+      <caption webpage="server-files" alt=""/>
+    </file>
+    <file name="properties.jpg" crc="4059830654" seo="true" ref="server-files">
+      <caption webpage="server-files" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="337090577" seo="true" mt="1587651131112" redirect="true"/>
+  <file name="server-information.html" crc="22086315" seo="true" mt="1587650970295" redirect="true"/>
+  <file name="server-files.html" crc="241339016" seo="true" mt="1587650947094" redirect="true"/>
+</manifest>
